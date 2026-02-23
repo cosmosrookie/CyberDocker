@@ -3,8 +3,6 @@
 
 # 隐私政策
 
-**最后更新日期：2024年3月10日**
-
 本隐私政策说明了 **CyberDocker**（以下简称“本应用”）如何收集、使用和保护您的信息。我们非常重视您的隐私，并致力于保护您的个人数据安全。
 
 ## 1. 我们收集的信息 (Information We Collect)
@@ -46,8 +44,6 @@
 ---
 
 # Privacy Policy 
-
-**Last Updated: March 10, 2024**
 
 This Privacy Policy explains how **CyberDocker** ("the App") collects, uses, and protects your information. We value your privacy and are committed to protecting your personal data.
 
