@@ -1,4 +1,4 @@
-# CyberDockerPrivacy Policy(隐私政策)
+# CyberDocker Privacy Policy (隐私政策)
 
 
 # 隐私政策
