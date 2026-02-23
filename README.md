@@ -1,7 +1,7 @@
 # CyberDockerPrivacy Policy(隐私政策)
 
 
-# 隐私政策 (Privacy Policy)
+# 隐私政策
 
 **最后更新日期：2024年3月10日**
 
@@ -45,7 +45,7 @@
 
 ---
 
-# Privacy Policy (English Version)
+# Privacy Policy 
 
 **Last Updated: March 10, 2024**
 
